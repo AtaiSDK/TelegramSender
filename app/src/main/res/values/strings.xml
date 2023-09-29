@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelegramSender</string>
+    <string name="текст">Введите текст</string>
+</resources>
